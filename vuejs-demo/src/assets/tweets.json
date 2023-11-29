@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "tech649",
+        "content": "PMUD m'ha obert els ulls a les meravelles de la programaci\u00f3 moderna.",
+        "publishedAt": "2023-04-04"
+    },
+    {
+        "id": 2,
+        "username": "dev308",
+        "content": "Vue.js ha transformat la manera com penso sobre el desenvolupament frontend. #VueLover",
+        "publishedAt": "2023-06-01"
+    },
+    {
+        "id": 3,
+        "username": "tech881",
+        "content": "Impressionant com Vue.js simplifica el treball amb la interf\u00edcie d'usuari.",
+        "publishedAt": "2023-03-20"
+    },
+    {
+        "id": 4,
+        "username": "dev820",
+        "content": "Aprendre a PMUD \u00e9s una experi\u00e8ncia enriquidora. #PMUD #Aprenentatge",
+        "publishedAt": "2023-12-14"
+    },
+    {
+        "id": 5,
+        "username": "tech664",
+        "content": "Aprofundint en Vue.js: cada dia una nova experiencia!",
+        "publishedAt": "2023-02-15"
+    }
+]
